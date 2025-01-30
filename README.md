@@ -1,3 +1,1 @@
-- Oie, Eu Sou a Thamily Rissi
-- Sou estudante da área de TI, buscando conhecimento em tecnologia e me atualizando constantemente sobre as novidades do mercado, com foco em software, ciência de dados e gestão de tecnologia da informação.
-- Programação / Back-End / Front-End / HTML / CSS / Javascript / Java / Python
+

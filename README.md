@@ -31,7 +31,14 @@
 ---
 
 ## 📈 Estatísticas do GitHub  
-![GitHub Streak]([https://streak-stats.demolab.com?user=thamilyrissi&theme=radical&border_radius=5](https://camo.githubusercontent.com/1021fa054b4872661baaca5d32fcce97d947c8c8040d058617dcb0cca427b194/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d636f6465535441434b72))
+
+<div align="center">
+  
+![Thamily's GitHub stats](https://github-readme-stats.vercel.app/api?username=thamilyr&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=thamilyr&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thamilyr&layout=compact&theme=radical)
+
+</div>
 
 
 ---

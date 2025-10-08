@@ -25,7 +25,7 @@
 
 ## 📌 Projetos em Destaque  
 - 🔹 **[Reciapp](#)** – Aplicativo de receitas para Android, com foco em **acessibilidade** e design simples.  
-- 🔹 Java (https://github.com/MDrovetto/Projeto_ada2/tree/Thamilyr_2) – Projeto de estudo focado em Programação Orientada a Objetos (POO I e II) e princípios SOLID, voltado para ordenação ideal de pedidos logísticos com múltiplos critérios.
+- 🔹 Java [Thamilyr_2](https://github.com/MDrovetto/Projeto_ada2/tree/Thamilyr_2) – Projeto de estudo focado em Programação Orientada a Objetos (POO I e II) e princípios SOLID, voltado para ordenação ideal de pedidos logísticos com múltiplos critérios.
 - 🔹Spring Boot [ProdutosAPI_Apredizando](https://github.com/thamilyr/ProdutosAPI_Apredizando) – API REST de estudo com JPA, autenticação JWT e containerização Docker/Kubernetes, pronta para deployment em nuvem.  
 - 🔹 **Vibe Coding Experiments** – Uso de **IA + Engenharia de Prompt** para acelerar prototipagem e desenvolvimento.  
 

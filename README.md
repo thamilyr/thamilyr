@@ -1,11 +1,18 @@
 # 👋 Olá, eu sou a Thamily Gimenes Rissi  
 
-🎓 Formada em **Análise e Desenvolvimento de Sistemas** e **Engenharia Civil**  
-💻 Estudando para me tornar **Desenvolvedora Back-End Júnior**  
-📚 Interesse em **Java, Spring Boot, APIs, Bancos de Dados SQL**, **microserviços em cloud** e também em **desenvolvimento mobile** (Java e Kotlin)  
-🤖 Explorando **Engenharia de Prompt** e **Vibe Coding** para acelerar aprendizado e produtividade  
-✨ **Sou apaixonada por tecnologia** e acredito que cada linha de código é uma oportunidade de criar, transformar e impactar o mundo 🚀  
-🌍 Idiomas: **Português (nativo) | Libras | Inglês (básico/intermediário)**  
+🎓 Formada em Análise e Desenvolvimento de Sistemas e Engenharia Civil
+🎓 Cursando Engenharia de Software
+
+💻 Desenvolvedora Back-End em formação, com foco em Java e APIs REST
+
+🚀 Tenho interesse em desenvolvimento back-end com Java, Spring Boot, APIs REST, bancos de dados SQL e microserviços em nuvem, além de desenvolvimento mobile com Java e Kotlin.
+
+🤖 Utilizo Inteligência Artificial como apoio nos estudos e desenvolvimento, buscando melhorar produtividade, aprendizado e qualidade de código.
+
+✨ Sou apaixonada por tecnologia e acredito que cada linha de código é uma oportunidade de criar soluções, transformar ideias em realidade e gerar impacto positivo.
+
+🌍 Idiomas:
+Português (nativo) | Libras | Inglês (básico/intermediário)
 
 ---
 

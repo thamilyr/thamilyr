@@ -1,61 +1,83 @@
-# 👋 Olá, eu sou a Thamily Gimenes Rissi
+<h1 align="center">👋 Olá, eu sou a Thamily Gimenes Rissi</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Desenvolvedora+Back-End;Java+%7C+Spring+Boot+%7C+APIs+REST;Apaixonada+por+tecnologia+🚀;Sempre+aprendendo+e+evoluindo" />
+</p>
+
+---
+
+## 🚀 Sobre mim
 
 🎓 Formada em Análise e Desenvolvimento de Sistemas e Engenharia Civil
 🎓 Cursando Engenharia de Software
 
-💻 Desenvolvedora Back-End em formação, com foco em Java e APIs REST
+💻 Desenvolvedora Back-End em formação, com foco em **Java, Spring Boot e APIs REST**
 
-🚀 Tenho interesse em desenvolvimento back-end com **Java, Spring Boot, APIs REST, bancos de dados SQL e microserviços em nuvem**, além de desenvolvimento mobile com **Java e Kotlin**.
+🤖 Utilizo Inteligência Artificial para aumentar produtividade e qualidade no desenvolvimento
 
-🤖 Utilizo **Inteligência Artificial como apoio nos estudos e desenvolvimento**, buscando melhorar produtividade, aprendizado e qualidade de código.
-
-✨ Sou apaixonada por tecnologia e acredito que cada linha de código é uma oportunidade de criar soluções, transformar ideias em realidade e gerar impacto positivo.
-
-🌍 **Idiomas:**
-Português (nativo) | Libras | Inglês (básico/intermediário)
+✨ Apaixonada por tecnologia e por transformar ideias em soluções reais
 
 ---
 
-## 💻 Tecnologias & Ferramentas
+## 🛠️ Tecnologias
 
-### 🔹 Backend & Mobile
+<p align="center">
 
-* Java
-* Spring Boot
-* Kotlin
-* Android
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,docker,kubernetes,aws,git,github,kotlin,android" />
 
-### 🔹 Banco de Dados
-
-* MySQL
-* PostgreSQL
-
-### 🔹 DevOps & Nuvem
-
-* Docker
-* Kubernetes
-* AWS
-
-### 🔹 Ferramentas & Práticas
-
-* Git & GitHub
-* Programação Orientada a Objetos (POO)
-* Princípios SOLID
+</p>
 
 ---
 
 ## 📌 Projetos em destaque
 
-🔹 **Reciapp**
-Aplicativo de receitas para Android, com foco em acessibilidade e experiência do usuário.
-
-🔹 **Marketplace Priority Sorter (MPS)**
-Projeto focado em lógica e algoritmos para ordenação de pedidos logísticos com múltiplos critérios.
-
-🔹 **Consulta Tabela FIPE (Java)**
-Aplicação para consumo de API REST, com busca de marcas, modelos e valores de veículos.
+🔹 **CineCatalog** → Sistema de catálogo de filmes em Java
+🔹 **Room Database (Android)** → Banco com relacionamentos e migrations
+🔹 **Jogo da Memória** → Aplicação com persistência em Java
+🔹 **IA Generativa** → Uso de IA para produtividade e desenvolvimento
 
 ---
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=thamilyr&show_icons=true&theme=tokyonight"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamilyr&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 Streak (consistência)
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=thamilyr&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌐 Conecte-se comigo
+
+<p align="center">
+  <a href="SEU_LINK_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:SEU_EMAIL">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 💡 Diferencial
+
+✨ Experiência com Java e APIs REST
+✨ Conhecimento em banco de dados e persistência
+✨ Uso de IA para produtividade no desenvolvimento
+✨ Facilidade de aprendizado e evolução constante
+
+---
+
+⭐ Sempre aberta a aprender, colaborar e crescer como desenvolvedora!
 
 ## 🌐 Conecte-se comigo
 

@@ -38,12 +38,10 @@
 
 ---
 
-## 📊 Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thamilyr&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamilyr&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+🌍 Idiomas
+Português (nativo)
+Libras
+Inglês (básico/intermediário)
 
 ---
 

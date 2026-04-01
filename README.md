@@ -56,7 +56,7 @@ Inglês (básico/intermediário)
 ## 🌐 Conecte-se comigo
 
 <p align="center">
-  <a href="[SEU_LINK_LINKEDIN](https://www.linkedin.com/in/thamily-rissi-2122133b/?skipRedirect=true)">
+  <a href="[(https://www.linkedin.com/in/thamily-rissi-2122133b/?skipRedirect=true)]">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="thamilyrissi@hotmail.com">

@@ -1,66 +1,88 @@
-<h1 align="center">👋 Olá, eu sou a Thamily Gimenes Rissi</h1>
+```md
+# 👋 Olá, eu sou Thamily Gimenes Rissi
 
 <p align="center">
-Desenvolvedora Back-End em formação, com foco em Java, Spring Boot, APIs REST e Banco de Dados.
-Também estudando Business Intelligence com Power BI e análise de dados.
+Desenvolvedora Back-End em formação, com foco em <b>Java, Spring Boot, APIs REST e Banco de Dados</b>.<br>
+Também desenvolvendo conhecimentos em <b>Business Intelligence, Power BI e Análise de Dados</b>.
 </p>
 
 ---
 
-```md
 ## 🚀 Sobre mim
 
 🎓 Formada em **Análise e Desenvolvimento de Sistemas** e **Engenharia Civil**  
 🎓 Cursando **Engenharia de Software**
 
-💻 Desenvolvedora Back-End em formação, com foco em **Java, Spring Boot, APIs REST e Banco de Dados**
+💻 Desenvolvo aplicações Back-End utilizando **Java, Spring Boot, APIs REST e banco de dados relacionais**
 
-📊 Desenvolvendo conhecimentos em **SQL, Power BI, Excel e Análise de Dados**
+📊 Aprimorando conhecimentos em **SQL, Power BI, Excel e análise de dados**
 
-🤖 Utilizo Inteligência Artificial como ferramenta para aumentar produtividade, qualidade de código e aprendizado
+🤖 Utilizo Inteligência Artificial como apoio para melhorar produtividade, qualidade de código e aprendizado contínuo
 
-✨ Apaixonada por tecnologia e por transformar ideias em soluções reais
+✨ Tenho interesse em tecnologia, inovação e desenvolvimento de soluções eficientes para problemas reais
 
 ---
 
 ## 🛠️ Tecnologias
 
+### Back-End
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,docker,kubernetes,aws,git,github,kotlin,android" />
-
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,docker,git,github" />
 </p>
 
+- Java
+- Spring Boot
+- APIs REST
+- JPA / Hibernate
+- SQL
+- PostgreSQL
+- MySQL
+- Git e GitHub
+
+### Dados e BI
+
+- Power BI
+- Excel
+- Dashboards
+- Análise de Dados
+- Consultas SQL
+
+### Mobile
+
 <p align="center">
-Java • Spring Boot • REST APIs • SQL • PostgreSQL • MySQL • Git • GitHub • Power BI • Excel
+<img src="https://skillicons.dev/icons?i=kotlin,android" />
 </p>
 
 ---
 
 ## 📌 Projetos em destaque
 
-🔹 **CineCatalog** → Sistema de catálogo de filmes desenvolvido em Java
+🎬 **CineCatalog**  
+Sistema de catálogo de filmes desenvolvido em Java, aplicando conceitos de programação e organização de código.
 
-🔹 **Room Database (Android)** → Aplicação Android utilizando banco local, relacionamentos e migrations
+📱 **Room Database (Android)**  
+Aplicação Android utilizando banco local, relacionamentos e migrations.
 
-🔹 **Jogo da Memória** → Aplicação com lógica de programação e persistência em Java
+🎮 **Jogo da Memória**  
+Projeto desenvolvido com lógica de programação e persistência de dados em Java.
 
-🔹 **Projetos com IA Generativa** → Uso de Inteligência Artificial aplicada à produtividade e desenvolvimento
+🤖 **Projetos com IA Generativa**  
+Aplicação de Inteligência Artificial para produtividade, estudos e desenvolvimento.
 
 ---
 
 ## 🌍 Idiomas
 
-🇧🇷 Português (nativo)  
+🇧🇷 Português — Nativo  
 🤟 Libras  
-🇺🇸 Inglês (básico/intermediário)
+🇺🇸 Inglês — Básico/Intermediário
 
 ---
 
-## 🔥 Streak (consistência)
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=thamilyr&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com/?user=thamilyr&theme=tokyonight"/>
 </p>
 
 ---
@@ -83,13 +105,14 @@ Java • Spring Boot • REST APIs • SQL • PostgreSQL • MySQL • Git • 
 
 ## 💡 Diferenciais
 
-✨ Experiência prática com **Java e APIs REST**  
-✨ Conhecimento em **banco de dados e persistência**  
-✨ Conhecimento em **Power BI e análise de dados**  
-✨ Uso de IA para produtividade no desenvolvimento  
+✨ Conhecimento em desenvolvimento Back-End com Java  
+✨ Experiência com APIs REST e bancos de dados  
+✨ Conhecimentos em Power BI e análise de dados  
+✨ Uso de IA aplicada ao desenvolvimento  
 ✨ Facilidade de aprendizado e evolução constante  
 
 ---
 
-⭐ Sempre aberta a aprender, colaborar em projetos e crescer como desenvolvedora!
+⭐ Sempre buscando aprender, colaborar e construir soluções com tecnologia.
 ```
+
